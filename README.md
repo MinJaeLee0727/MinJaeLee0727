@@ -9,21 +9,6 @@
 Hi, I'm Chris.   
 I am an undergraduate student at the University of Waterloo pursuing Computer Science.
 
-##  Basic Information about Me
-> ## Education ##
-> University of Waterloo
-> * Bachelor of Computer Science
-
-> ## Language ##
-> * Korean
-> * English 
-
-> ## Contact ##
-> * Email: minjaelee0727@gmail.com
-> * IG: @dlaswow
-> * Discord: chris0727 #0635
-> * Twitter: @minjaelee0727
-
 ##  Programming Language
 
 * Python
@@ -35,10 +20,6 @@ I am an undergraduate student at the University of Waterloo pursuing Computer Sc
 * Css
 * Java
 * C
-
-## Tech blog 
-
-onGoiing...
 
 ## Additional Sites representing me
  <a href="https://www.linkedin.com/in/minjaelee0727/"> 
