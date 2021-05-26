@@ -9,6 +9,6 @@
  <a href="https://www.linkedin.com/in/minjaelee0727/" target="_blank"> 
  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
  </a>
- <a href="https://www.notion.so/0020727-4b08b437ca2446d592575709c7c3ed14" target="_blank"> 
+ <a href="https://minjaelee0727.oopy.io" target="_blank"> 
 <img src="https://img.icons8.com/ios/48/000000/notion.png"/>
 </a>
