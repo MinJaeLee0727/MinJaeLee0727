@@ -5,7 +5,7 @@
 - 🧑‍💻 I am currently building Social Media App for College Students and Stock Trading Bot for Korean stock markets. 
 - 💞️ I use Python, Swift, R, Racket, C.
 
-### Find me elsewhere
+### If you want to know me more, please click them!
  <a href="https://www.linkedin.com/in/minjaelee0727/" target="_blank"> 
  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
  </a>
