@@ -3,7 +3,7 @@
 - 🌱 I am an undergraduate student at the University of Waterloo pursuing Computer Science degree.
 - 👀 **I am seeking Fall 2021 Internship!**
 - 🧑‍💻 I am currently building Social Media App for College Students and Stock Trading Bot for Korean stock markets. 
-- 💞️ I can use Python, Swift, R, Racket, C.
+- 💞️ I use Python, Swift, R, Racket, C.
 
 ### Find me elsewhere
  <a href="https://www.linkedin.com/in/minjaelee0727/" target="_blank"> 
