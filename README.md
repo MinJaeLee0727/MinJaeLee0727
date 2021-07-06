@@ -2,7 +2,7 @@
 
 - 🌱 I am an undergraduate student at the University of Waterloo pursuing Computer Science degree.
 - 👀 **I am seeking Fall 2021 Internship!**
-- 🧑‍💻 I am currently building Social Media App for College Students and Stock Trading Bot for Korean stock markets. 
+- 🧑‍💻 I am currently building iOS Social Media App for College Students and Stock Trading Bot for Korean stock markets. 
 - 💞️ I use Python, Swift, R, Racket, C.
 
 ### If you want to know me more, please click them!
