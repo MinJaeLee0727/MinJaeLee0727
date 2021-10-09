@@ -1,7 +1,7 @@
 #  Hi, I’m Chris 👋
 
 - 🌱 I am an undergraduate student at the University of Waterloo pursuing Computer Science degree.
-- 👀 **I am working as Mobile Application (iOS) Developer Co-op at TutorOcean.**
+- 👀 **I am working as a Mobile Application (iOS) Developer Co-op at TutorOcean.**
 - 🧑‍💻 I found Community service platform and photobooth company
 - 💞️ I use Python and Swift.
 
