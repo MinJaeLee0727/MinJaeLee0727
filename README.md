@@ -1,9 +1,9 @@
 #  Hi, I’m Chris 👋
 
 - 🌱 I am an undergraduate student at the University of Waterloo pursuing Computer Science degree.
-- 👀 **I am doing Mobile Application (iOS) Developer Co-op at TutorOcean. 
-- 🧑‍💻 I am currently building iOS Social Media App for College Students and Stock Trading Bot for Korean stock markets. 
-- 💞️ I use Python, Swift, R, Racket, C.
+- 👀 **I am working as Mobile Application (iOS) Developer Co-op at TutorOcean.**
+- 🧑‍💻 I found Community service platform and photobooth company
+- 💞️ I use Python and Swift.
 
 ### If you want to know me more, please click them!
  <a href="https://www.linkedin.com/in/minjaelee0727/" target="_blank"> 
